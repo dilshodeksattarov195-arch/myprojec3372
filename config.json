@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvonnect",
+        "uuid": 14297280,
+        "checksum": "tgccfo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
